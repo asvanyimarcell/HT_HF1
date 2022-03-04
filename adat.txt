@@ -1,0 +1,1 @@
+Ez itt a mintaszöveg, amit majd a kód titkosítani fog! Ezt egy másik fájlba fogja majd megtenni!
